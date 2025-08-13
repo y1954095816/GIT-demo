@@ -2,6 +2,13 @@
 #include "Delay.h"
 #include "OLED.h"
 
+
+
+
+
+
+
+
 int main(void)
 {
 	OLED_Init();
